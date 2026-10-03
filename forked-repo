@@ -1,0 +1,40 @@
+$ curl -s https://api.github.com/repos/arhaqx/mcino-Introduction-to-Git-and-GitHub
+{
+  "id": 1073847926,
+  "node_id": "R_kgDOQAGydg",
+  "name": "mcino-Introduction-to-Git-and-GitHub",
+  "full_name": "arhaqx/mcino-Introduction-to-Git-and-GitHub",
+  "private": false,
+  "owner": {
+    "login": "arhaqx",
+    "id": 114674686,
+    "node_id": "U_kgDOBtbP_g",
+    "html_url": "https://github.com/arhaqx",
+    "type": "User"
+  },
+  "html_url": "https://github.com/arhaqx/mcino-Introduction-to-Git-and-GitHub",
+  "description": "Introduction-to-Git-and-GitHub",
+  "fork": true,
+  "url": "https://api.github.com/repos/arhaqx/mcino-Introduction-to-Git-and-GitHub",
+  "parent": {
+    "id": 1050225087,
+    "node_id": "R_kgDOPpkpvw",
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "private": false,
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "description": "Introduction-to-Git-and-GitHub",
+    "fork": false
+  },
+  "source": {
+    "id": 1050225087,
+    "node_id": "R_kgDOPpkpvw",
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "private": false,
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "description": "Introduction-to-Git-and-GitHub",
+    "fork": false
+  },
+  "default_branch": "main"
+}

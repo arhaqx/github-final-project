@@ -1,0 +1,45 @@
+$ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/12026
+{
+  "url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/12026",
+  "id": 2085741020,
+  "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pull/12026",
+  "number": 12026,
+  "state": "open",
+  "title": "Bug fix revert",
+  "user": {
+    "login": "arhaqx",
+    "id": 114674686
+  },
+  "body": "Reverting bug fix for lab assessment",
+  "head": {
+    "label": "arhaqx:bug-fix-revert",
+    "ref": "bug-fix-revert",
+    "sha": "36170a08399f17dbb7835770bae389d071eb44f6",
+    "user": {
+      "login": "arhaqx",
+      "id": 114674686
+    },
+    "repo": {
+      "id": 1073847926,
+      "name": "mcino-Introduction-to-Git-and-GitHub",
+      "full_name": "arhaqx/mcino-Introduction-to-Git-and-GitHub",
+      "private": false,
+      "fork": true,
+      "parent": {
+        "id": 1050225087,
+        "name": "mcino-Introduction-to-Git-and-GitHub",
+        "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+      }
+    }
+  },
+  "base": {
+    "label": "ibm-developer-skills-network:main",
+    "ref": "main",
+    "sha": "ad95b0abe521c61effc692e83d5babd5fbf25910",
+    "repo": {
+      "id": 1050225087,
+      "name": "mcino-Introduction-to-Git-and-GitHub",
+      "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+    }
+  }
+}
